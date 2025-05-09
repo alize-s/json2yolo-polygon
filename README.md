@@ -5,7 +5,11 @@ A tool that converts JSON in LabelMe format to TXT in Yolo.
 
 使用GUI界面时有必须要输入的几个参数：
 ①存放json文件的目录。
+
 ②要存放转换后文件的目录。
+
 ③标注文件内的标签信息。标签之间以逗号分隔。标签按照labelme标注的顺序填写。
+
 ④图像的宽度和高度。
+
 填写完成后点击开始即可。
